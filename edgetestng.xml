@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+   <test thread-count="5" name="EdgeTest">
+  <parameter name="browsers" value="edge"></parameter>
+    <classes>
+      <class name="com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge"/> <!--this can be used for parallel,sequential testing of 2 browsers-->
+      <!--<class name="com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOI"/>--> <!--this can be used only for sequential testing of 2 browsers-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

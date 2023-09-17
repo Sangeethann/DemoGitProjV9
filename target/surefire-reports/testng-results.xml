@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-28T08:10:50 AST" name="Suite" finished-at="2023-03-28T08:12:09 AST" duration-ms="78944">
+    <groups>
+    </groups>
+    <test started-at="2023-03-28T08:10:50 AST" name="EdgeTest" finished-at="2023-03-28T08:12:06 AST" duration-ms="76652">
+      <class name="com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:10:50 AST" name="beforeTest" finished-at="2023-03-28T08:10:54 AST" duration-ms="3936" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:10:54 AST" name="beforeMethod" finished-at="2023-03-28T08:11:01 AST" duration-ms="7464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:01 AST" name="loginEdge" data-provider="dpEdge" finished-at="2023-03-28T08:11:07 AST" duration-ms="5402" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEdge -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:07 AST" name="afterMethod" finished-at="2023-03-28T08:11:08 AST" duration-ms="1084" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginEdge status=SUCCESS method=LoginTestDPUsingApachePOIEdge.loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:08 AST" name="beforeMethod" finished-at="2023-03-28T08:11:14 AST" duration-ms="6045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:14 AST" name="loginEdge" data-provider="dpEdge" finished-at="2023-03-28T08:11:19 AST" duration-ms="4927" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sav@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sav@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEdge -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:19 AST" name="afterMethod" finished-at="2023-03-28T08:11:20 AST" duration-ms="1669" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginEdge status=SUCCESS method=LoginTestDPUsingApachePOIEdge.loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:20 AST" name="beforeMethod" finished-at="2023-03-28T08:11:25 AST" duration-ms="4409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:25 AST" name="loginEdge" data-provider="dpEdge" finished-at="2023-03-28T08:11:28 AST" duration-ms="3162" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEdge -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:28 AST" name="afterMethod" finished-at="2023-03-28T08:11:29 AST" duration-ms="942" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginEdge status=SUCCESS method=LoginTestDPUsingApachePOIEdge.loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:29 AST" name="beforeMethod" finished-at="2023-03-28T08:11:33 AST" duration-ms="3913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:33 AST" name="loginEdge" data-provider="dpEdge" finished-at="2023-03-28T08:11:36 AST" duration-ms="3539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tut]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tut]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEdge -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:36 AST" name="afterMethod" finished-at="2023-03-28T08:11:37 AST" duration-ms="1190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginEdge status=SUCCESS method=LoginTestDPUsingApachePOIEdge.loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:37 AST" name="beforeMethod" finished-at="2023-03-28T08:11:41 AST" duration-ms="4001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:41 AST" name="loginEdge" data-provider="dpEdge" finished-at="2023-03-28T08:11:45 AST" duration-ms="3507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tut@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tut@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEdge -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:45 AST" name="afterMethod" finished-at="2023-03-28T08:11:46 AST" duration-ms="559" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginEdge status=SUCCESS method=LoginTestDPUsingApachePOIEdge.loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:46 AST" name="beforeMethod" finished-at="2023-03-28T08:11:50 AST" duration-ms="4577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:50 AST" name="loginEdge" data-provider="dpEdge" finished-at="2023-03-28T08:11:55 AST" duration-ms="4533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sav]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEdge -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:55 AST" name="afterMethod" finished-at="2023-03-28T08:11:56 AST" duration-ms="1462" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginEdge status=SUCCESS method=LoginTestDPUsingApachePOIEdge.loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:11:56 AST" name="beforeMethod" finished-at="2023-03-28T08:12:01 AST" duration-ms="4552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:12:01 AST" name="loginEdge" data-provider="dpEdge" finished-at="2023-03-28T08:12:05 AST" duration-ms="4548" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEdge -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:12:05 AST" name="afterMethod" finished-at="2023-03-28T08:12:06 AST" duration-ms="651" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginEdge status=SUCCESS method=LoginTestDPUsingApachePOIEdge.loginEdge(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge@29b5533]" started-at="2023-03-28T08:12:06 AST" name="afterTest" finished-at="2023-03-28T08:12:06 AST" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIEdge -->
+    </test> <!-- EdgeTest -->
+    <test started-at="2023-03-28T08:10:50 AST" name="ChromeTest" finished-at="2023-03-28T08:12:09 AST" duration-ms="78944">
+      <class name="com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:10:50 AST" name="beforeTest" finished-at="2023-03-28T08:10:52 AST" duration-ms="2224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:10:53 AST" name="beforeMethod" finished-at="2023-03-28T08:11:00 AST" duration-ms="6936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:00 AST" name="loginChrome" data-provider="dpChrome" finished-at="2023-03-28T08:11:06 AST" duration-ms="5595" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginChrome -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:06 AST" name="afterMethod" finished-at="2023-03-28T08:11:08 AST" duration-ms="2441" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginChrome status=SUCCESS method=LoginTestDPUsingApachePOIChrome.loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:08 AST" name="beforeMethod" finished-at="2023-03-28T08:11:13 AST" duration-ms="4475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:13 AST" name="loginChrome" data-provider="dpChrome" finished-at="2023-03-28T08:11:19 AST" duration-ms="6154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sav@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sav@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginChrome -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:19 AST" name="afterMethod" finished-at="2023-03-28T08:11:20 AST" duration-ms="1476" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginChrome status=SUCCESS method=LoginTestDPUsingApachePOIChrome.loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:20 AST" name="beforeMethod" finished-at="2023-03-28T08:11:24 AST" duration-ms="3984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:24 AST" name="loginChrome" data-provider="dpChrome" finished-at="2023-03-28T08:11:28 AST" duration-ms="3377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginChrome -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:28 AST" name="afterMethod" finished-at="2023-03-28T08:11:29 AST" duration-ms="1495" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginChrome status=SUCCESS method=LoginTestDPUsingApachePOIChrome.loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:29 AST" name="beforeMethod" finished-at="2023-03-28T08:11:33 AST" duration-ms="3805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:33 AST" name="loginChrome" data-provider="dpChrome" finished-at="2023-03-28T08:11:36 AST" duration-ms="3413" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tut]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tut]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginChrome -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:36 AST" name="afterMethod" finished-at="2023-03-28T08:11:38 AST" duration-ms="1369" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginChrome status=SUCCESS method=LoginTestDPUsingApachePOIChrome.loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:38 AST" name="beforeMethod" finished-at="2023-03-28T08:11:41 AST" duration-ms="3903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:41 AST" name="loginChrome" data-provider="dpChrome" finished-at="2023-03-28T08:11:47 AST" duration-ms="5896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tut@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tut@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginChrome -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:47 AST" name="afterMethod" finished-at="2023-03-28T08:11:48 AST" duration-ms="926" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginChrome status=SUCCESS method=LoginTestDPUsingApachePOIChrome.loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:48 AST" name="beforeMethod" finished-at="2023-03-28T08:11:53 AST" duration-ms="4351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:53 AST" name="loginChrome" data-provider="dpChrome" finished-at="2023-03-28T08:11:56 AST" duration-ms="3542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sav]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginChrome -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:56 AST" name="afterMethod" finished-at="2023-03-28T08:11:57 AST" duration-ms="695" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginChrome status=SUCCESS method=LoginTestDPUsingApachePOIChrome.loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:11:57 AST" name="beforeMethod" finished-at="2023-03-28T08:12:01 AST" duration-ms="4232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:12:01 AST" name="loginChrome" data-provider="dpChrome" finished-at="2023-03-28T08:12:08 AST" duration-ms="6503" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginChrome -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:12:08 AST" name="afterMethod" finished-at="2023-03-28T08:12:08 AST" duration-ms="614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginChrome status=SUCCESS method=LoginTestDPUsingApachePOIChrome.loginChrome(java.lang.String,java.lang.String)[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome@5cc3e49b]" started-at="2023-03-28T08:12:08 AST" name="afterTest" finished-at="2023-03-28T08:12:09 AST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.mainprojectupdated.Scripts.LoginTestDPUsingApachePOIChrome -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
